@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 23 17:29:50 IST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1479902390769
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:3.0.5.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
