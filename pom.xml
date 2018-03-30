@@ -287,10 +287,10 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
-            <plugin>
+           <!--  <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
-                <!-- version>0.6.3.201306030806</version -->
+                version>0.6.3.201306030806</version
                 <version>${jacoco.version}</version>
                 <configuration>
 					<destFile>${sonar.jacoco.reportPath}</destFile>
@@ -310,7 +310,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin> -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-eclipse-plugin</artifactId>
